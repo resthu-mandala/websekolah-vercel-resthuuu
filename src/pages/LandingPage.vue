@@ -64,7 +64,7 @@ video {
   max-width: 1200px;
 }
 .Kategori-card {
-  background-color: aqua;
+  background-color: white;
   max-width: 300px;
   padding: 40px;
   text-align: center;
@@ -88,7 +88,7 @@ font-size: 1rem;
 color: black;
 }
 .kategori-card1 {
-  background-color: rgb(0, 255, 255);
+  background-color: white;
   max-width: 300px;
   padding: 40px;
   text-align: center;
@@ -96,7 +96,7 @@ color: black;
   box-shadow: 0 10px 15px 10px black;
 }
 .kategori-card2 {
-  background-color: aqua;
+  background-color: white;
   max-width: 300px;
   padding: 40px;
   text-align: center;
